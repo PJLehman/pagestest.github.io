@@ -1,0 +1,30 @@
+/* style.css */
+
+body {
+    background-color: #F3F4F6;
+    color: #415F76;
+}
+
+h1, h2 {
+    color: #1C4F8F;
+}
+
+a {
+    color: #D39F10;
+}
+
+a:hover {
+    color: #1C4F8F;
+}
+
+p {
+    line-height: 1.6;
+}
+
+ul {
+    list-style-type: none;
+}
+
+li {
+    margin-bottom: 10px;
+}
